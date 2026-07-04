@@ -1,6 +1,6 @@
 ---
 name: Category Page Copywriter
-description: Write the intro and lower-page copy for an ecommerce collection or category page so it ranks for a commercial query while pushing shoppers toward a product fast. Use when you have a collection/category page (e.g. "women's merino base layers", "standing desks") and need the above-grid intro blurb, the H1, and the supporting SEO content below the product grid. Do NOT use for standalone marketing or campaign landing pages — use landing-page-copy instead; do NOT use for a single product's description — use product-description-writer instead.
+description: Write the intro and lower-page copy for an ecommerce collection or category page so it ranks for a commercial query while pushing shoppers toward a product fast. Use when someone asks "write copy for my ecommerce category pages", "write the intro blurb for my collection page", or "write SEO copy for my collection page below the product grid" — the above-grid intro, the H1, and the supporting content under the grid. Do NOT use for standalone marketing or campaign landing pages — use landing-page-copy instead; do NOT use for a single product's description — use product-description-writer instead.
 ---
 
 # Category Page Copywriter

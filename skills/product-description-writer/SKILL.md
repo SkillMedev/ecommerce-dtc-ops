@@ -23,6 +23,10 @@ Translate a product's specs into the on-site PDP master copy: benefit-led, scann
 - Spec-hunters can find every literal number in the Details block without it cluttering the sell.
 - Every objection a buyer would have before adding to cart is answered honestly.
 
+## Deliverable
+
+Produce the complete PDP master copy as one paste-ready block: lead hook line, 2-3 sentence intro, 3-5 benefit bullets (payoff front-loaded, opening words bold), objection-handling lines or a "Good to know" note, a benefit-restating CTA, and the Details/Specs block with every literal number, dimension, material, and care instruction from the source. Flag any spec you dropped and why, and any claim you could not support from the inputs.
+
 ## Do NOT
 
 - Do not invent performance numbers, certifications, materials, or health/safety/earnings claims. Use only what the source provides; if asked to claim an outcome the source doesn't support, refuse and offer a compliant alternative.

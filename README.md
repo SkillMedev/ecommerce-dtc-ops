@@ -16,13 +16,13 @@ Reach for this when you run a DTC or e-commerce store and need on-brand copy tha
 
 - **[Product Description Writer](skills/product-description-writer/SKILL.md)** — Writes the single on-site PDP master copy — a benefit-led, scannable product detail page in the brand's voice — from a raw spec sheet or feature list.
 - **[Amazon Listing Optimizer](skills/amazon-listing-optimizer/SKILL.md)** — Writes an Amazon product title, five bullets, and backend search terms that obey Amazon's character, byte, and keyword rules while staying click-worthy in the search grid.
-- **[Variant Copy Scaler](skills/variant-copy-scaler/SKILL.md)** — Generates distinct, on-brand copy for every size, color, and bundle variant from a single master description, splitting shared core from a thin per-variant layer to avoid thin or duplicate-content pages.
-- **[Review-to-FAQ Builder](skills/review-to-faq-builder/SKILL.md)** — Mines customer reviews and Q&A into a pre-purchase PDP FAQ and objection-handling block that answers shopper hesitation before it forms.
+- **[Variant Copy Scaler](skills/variant-copy-scaler/SKILL.md)** — Generates distinct, on-brand copy for every size, color, and bundle variant from a single master description, splitting a shared core from a thin per-variant layer so variant pages avoid thin or duplicate-content problems.
+- **[Review-to-FAQ Builder](skills/review-to-faq-builder/SKILL.md)** — Mines customer reviews and Q&A exports into a pre-purchase PDP FAQ and objection-handling block that answers shopper hesitation before it forms, ordered by conversion impact.
 - **[Category Page Copywriter](skills/category-page-copywriter/SKILL.md)** — Write the intro and lower-page copy for an ecommerce collection or category page so it ranks for a commercial query while pushing shoppers toward a product fast.
 - **[Abandoned Cart Sequence](skills/abandoned-cart-sequence/SKILL.md)** — Drafts a margin-aware 3-email cart-recovery sequence that reminds, handles objections, then incentivizes only as a last touch.
 - **[Comparison Page Builder](skills/comparison-page-builder/SKILL.md)** — Builds an honest "X vs Y" or "best alternative to X" comparison page — scannable table plus use-case routing copy — for high-intent commercial searches.
-- **[Landing Page CRO](skills/landing-page-cro/SKILL.md)** — Improves landing page conversion using hypothesis-driven CRO.
-- **[Email Drip Builder](skills/email-drip-builder/SKILL.md)** — Designs automated drip and onboarding email sequences that activate users.
+- **[Landing Page CRO](skills/landing-page-cro/SKILL.md)** — Improves an existing landing page's conversion rate through evidence-first CRO — audit heatmaps and recordings, write structured hypotheses, prioritize with ICE scoring, and run one-variable tests to statistical significance.
+- **[Email Drip Builder](skills/email-drip-builder/SKILL.md)** — Designs automated onboarding and activation drip sequences with behavior-gated sends, exit
 
 ## License
 

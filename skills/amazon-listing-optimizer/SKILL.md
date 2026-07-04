@@ -13,6 +13,15 @@ Optimize an Amazon listing for both the A9 search algorithm and a shopper scanni
 4. Write backend search terms. The field caps at 250 bytes total (not per line); spaces separate terms, so no commas. Do not repeat any word already in the title or bullets — Amazon indexes those separately and repeats waste bytes. Add synonyms, common and alternate spellings, and use-case terms. Lowercase throughout.
 5. Run the compliance pass before delivering: scan every field against the Do NOT list and the category's restricted-word rules (supplements, beauty, baby are strictest).
 
+## Deliverable
+
+Produce a paste-ready listing package containing:
+
+1. **The title** — with its character count and the verified category cap noted beside it.
+2. **The five bullets** — each with its benefit label, character count, and the priority slot it fills (main benefit, key feature, fit, contents, trust/objection).
+3. **The backend search-term string** — a single lowercase, space-separated line with its byte count out of 250 and confirmation of zero overlap with title/bullet words.
+4. **A compliance sign-off** — one line per field confirming it passed the Do NOT list and the category's restricted-word rules, plus any claim that was rewritten for substantiation and why.
+
 ## Quality bar
 - Title and each bullet are within their character limits and the verified category cap.
 - Every word in the title is search-relevant; none is filler, because every word is indexed.
