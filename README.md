@@ -9,7 +9,7 @@ Reach for this when you run a DTC or e-commerce store and need on-brand copy tha
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/ecommerce-dtc-ops](https://skillme.dev/pack/ecommerce-dtc-ops) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/ecommerce-dtc-ops`
+- **With the skills CLI:** `npx skills add SkillMedev/ecommerce-dtc-ops`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
