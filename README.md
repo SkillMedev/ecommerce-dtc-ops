@@ -1,16 +1,17 @@
 # E-commerce & DTC Operations
 
-**Conversion copy for every DTC touchpoint - product page to abandoned-cart flow.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**Conversion copy for every DTC touchpoint - product page to abandoned-cart flow.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-ecommerce-dtc-ops).
 
 Reach for this when you run a DTC or e-commerce store and need on-brand copy that converts across the whole funnel - not a one-off blurb. Turn spec sheets into benefit-led product pages, scale them across every variant without duplicate-content penalties, write Amazon listings that survive the rules, mine reviews into objection-killing PDP FAQs, rank category and "vs"-comparison pages for high-intent buyers, and recover lost carts with a margin-aware email sequence. The copy stack a lean DTC team would otherwise hire a specialist for.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/ecommerce-dtc-ops](https://skillme.dev/pack/ecommerce-dtc-ops) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/ecommerce-dtc-ops?utm_source=github&utm_medium=readme&utm_campaign=pack-ecommerce-dtc-ops) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add product-description-writer amazon-listing-optimizer variant-copy-scaler review-to-faq-builder category-page-copywriter abandoned-cart-sequence comparison-page-builder landing-page-cro email-drip-builder --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/ecommerce-dtc-ops`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -27,4 +28,4 @@ Reach for this when you run a DTC or e-commerce store and need on-brand copy tha
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-ecommerce-dtc-ops).
